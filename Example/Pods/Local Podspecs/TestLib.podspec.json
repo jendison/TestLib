@@ -1,0 +1,27 @@
+{
+  "name": "TestLib",
+  "version": "0.1.0",
+  "summary": "A short description of TestLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/jendison/TestLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "jendison": "jendison@163.com"
+  },
+  "source": {
+    "git": "https://github.com/jendison/TestLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TestLib/Classes/**/*",
+  "dependencies": {
+    "iRate": [
+      "~> 1.12.1"
+    ]
+  }
+}

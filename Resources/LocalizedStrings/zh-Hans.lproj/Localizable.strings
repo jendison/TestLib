@@ -1,0 +1,8 @@
+/* 
+  Localizable.strings
+  Pods
+
+  Created by andylee on 2017/10/8.
+  
+*/
+"hello" = "你好，世界!";
